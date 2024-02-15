@@ -6,5 +6,7 @@ The website is designed to work well on different devices like phones, tablets, 
 It uses basic web technologies: HTML for the structure, CSS for styling, and JavaScript for making things dynamic (like switching between tabs and calculating discounts).
 The product information comes from a special file called JSON, and the website fetches this data to display the products.
 
+GITHUB pages link:- https://sumitraj786.github.io/MARMETO-UI-DESIGN/
+
 Name:- Sumit Raj
 Email:-sumitrajsky00@gmail.com
